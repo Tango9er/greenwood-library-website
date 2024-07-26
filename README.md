@@ -8,7 +8,7 @@
     - *sign in to github*
     - *click on + sign*
     - *click on 'New repository*
-    - *initialize repository by adding a README file*
+    - *initialize repository with a README file*
     - *click on create repository*
    ![Create Repository](https://github.com/user-attachments/assets/f8359982-4d52-4281-b250-df7280f14097)
 
