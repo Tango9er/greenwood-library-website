@@ -15,7 +15,7 @@
     - Click **Create repository**.
     ![Create Repository](https://github.com/user-attachments/assets/f8359982-4d52-4281-b250-df7280f14097)
    
-     **Note**: Make sure your repository name is descriptive and relevant.
+     **Note**: _Make sure your repository name is descriptive and relevant._
 
 ## Cloning the Repository in VSCode Terminal
 
@@ -47,7 +47,7 @@
     ```
     ![Create Files](https://github.com/user-attachments/assets/5ab1b784-a0c7-4ae8-953b-5c63022de705)
 
-     **Note**: Ensure that the file names are exactly as required.
+     **Note**: _Ensure that the file names are exactly as required._
 
 2. **Edit `home.html`**
     ```bash
