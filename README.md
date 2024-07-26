@@ -1,8 +1,8 @@
 # greenwood-library-website
-
-
 ```markdown
 # Greenwood Community Library Website
+
+## Creating a repository
 
 1. **Create Repository**
     - *sign in to github*
