@@ -168,7 +168,3 @@
 14. **Merge Confirmed Successfully**
     ![Merge Confirmed](https://github.com/user-attachments/assets/b6a1d3a2-4c0d-4bd4-847d-ae4148b02656)
 ```
-
-This Markdown file provides a step-by-step guide with images for each action, making it easy to follow the process of setting up and managing the repository for the Greenwood Community Library website.
-
-
