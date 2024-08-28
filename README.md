@@ -37,7 +37,6 @@
     ```
     ![Change Directory](https://github.com/user-attachments/assets/fb57a943-8c48-439e-a7c7-8de58dc57c7d)
 
-     **Tip**: _Verify the repository directory with `ls` command to ensure you are in the right folder._
 
 ## Creating and Adding Content to HTML Files
 
